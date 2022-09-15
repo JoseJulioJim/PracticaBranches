@@ -1,7 +1,7 @@
 José Julio Jiménez del Valle
 
-Materia: Diseño de videojuegos.
+Materia: Sistemas Operativos.
 
-Maestro: Eduardo Guerrero.
+Maestro: Jonathan MirCha.
 
-Que estamos aprendido: Estamos aprendendiendo las etapas de preprodución de un videojuego y como es que surge el proceso creativo, y analizamos el como han evolucionado los videojuegos
+Que estamos aprendido: Estamos aprendendiendo el uso de git y github con el fin de poder trabajar de manera remota, como lo es el agregar commits, trabajar con branches y el entender bien como funcionan las cosas
