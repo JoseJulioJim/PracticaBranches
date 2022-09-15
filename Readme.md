@@ -1,7 +1,7 @@
 José Julio Jiménez del Valle
 
-Materia: Proyecto Semestral.
+Materia: Lenguajes interpretados.
 
-Maestro: Rodrigo Saco.
+Maestro: Fernando Mosebey.
 
-Que estamos aprendido: Estamos aprendendiendo utilizar las herramientas de unity con el fin de crear un juego de primera persona con interacciones y sistema de inventario
+Que estamos aprendido: Estamos aprendendiendo a programar paginas web por medio de python y visual code con el uso de extensiones como lo es boostrap
