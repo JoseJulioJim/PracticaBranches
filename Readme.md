@@ -1,7 +1,7 @@
 José Julio Jiménez del Valle
 
-Materia: Composisión y diseño.
+Materia: Proyecto Semestral.
 
-Maestro: Roberto Melo.
+Maestro: Rodrigo Saco.
 
-Que estamos aprendido: Estamos aprendendiendo a usar photoshop con el fin de crear montajes por medio de las herramientas de edición
+Que estamos aprendido: Estamos aprendendiendo utilizar las herramientas de unity con el fin de crear un juego de primera persona con interacciones y sistema de inventario
