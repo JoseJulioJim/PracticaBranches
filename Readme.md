@@ -1,7 +1,7 @@
 José Julio Jiménez del Valle
 
-Materia: Diseño de videojuegos.
+Materia: Composisión y diseño.
 
-Maestro: Eduardo Guerrero.
+Maestro: Roberto Melo.
 
-Que estamos aprendido: Estamos aprendendiendo las etapas de preprodución de un videojuego y como es que surge el proceso creativo, y analizamos el como han evolucionado los videojuegos
+Que estamos aprendido: Estamos aprendendiendo a usar photoshop con el fin de crear montajes por medio de las herramientas de edición
